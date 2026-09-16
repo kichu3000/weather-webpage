@@ -1,21 +1,21 @@
-# ⛅ Weather Webpage
+#  Weather Webpage
 
 A simple and responsive weather application built using **React**. Enter any city to get real-time weather updates like temperature, humidity, and conditions.
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 
 👉 [Check it out here](https://kichu3000.github.io/weather-webpage/)
 
 ---
 
-## 🧠 Features
+##  Features
 
-- 🌍 Search weather by city name
-- 🌡️ Displays temperature, weather condition, humidity, and wind speed
-- 🔄 Refreshes data in real-time
-- 📱 Fully responsive design
+- Search weather by city name
+- Displays temperature, weather condition, humidity, and wind speed
+- Refreshes data in real-time
+- Fully responsive design
 
 ---
 
