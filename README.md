@@ -19,13 +19,13 @@ A simple and responsive weather application built using **React**. Enter any cit
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ![Search](./screenshots/screenshot.png)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - HTML/CSS
@@ -34,7 +34,7 @@ A simple and responsive weather application built using **React**. Enter any cit
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/kichu3000/weather-webpage.git
@@ -44,7 +44,7 @@ npm run dev
 
 ```
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 weather-webpage/
